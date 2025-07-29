@@ -1,2 +1,5 @@
 output/
 data/
+src/preprocess_rosmap
+bin/Homo_sapiens.GRCh38.113.gtf
+bin/bcftools-1.21
